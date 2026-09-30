@@ -55,8 +55,12 @@ Built a Generative AI chatbot backend with Python, FastAPI and Postgres. Develop
 
 ## <img src="internet.gif" alt="alt text" width="25" align="top"/>  Let's Connect
 
-<img width="24" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio" align="top"/> [portfolio-upwork-ebon.vercel.app](https://portfolio-upwork-ebon.vercel.app/)
+<img width="24" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio" align="top"/> [`portfolio-upwork-ebon.vercel.app`](https://portfolio-upwork-ebon.vercel.app/)
 
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo" align="top"/> [https://www.upwork.com/freelancers/samiyahamid](https://www.upwork.com/freelancers/samiyahamid)
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo" align="top"/> [`https://www.upwork.com/freelancers/samiyahamid`](https://www.upwork.com/freelancers/samiyahamid)
 
-<img width="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" align="top"/> [https://www.linkedin.com/in/samiyahamid/](https://www.linkedin.com/in/samiyahamid/)
+<img width="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" align="top"/> [`https://www.linkedin.com/in/samiyahamid/`](https://www.linkedin.com/in/samiyahamid/)
+
+<hr>
+
+Icons are from [`https://icons8.com/`](https://icons8.com/)
