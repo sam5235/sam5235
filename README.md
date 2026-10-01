@@ -1,14 +1,10 @@
-<h1 style="text-align:center;">Hi, I'm Samiya 👋</h1>
+<h1 align="center">Hi, I'm Samiya 👋</h1>
 
-<h3 style="text-align:center;"> Full-Stack Engineer - React, Vue, Python, .NET, AI Automation | Claude Code, Codex Expert </h3>
+<h3 align="center"> Full-Stack Engineer - React, Vue, Python, .NET, AI Automation | Claude Code, Codex Expert </h3>
 
-<div style="text-align:center;color:grey;"><img src="locate.gif" alt="alt text" width="22" align="top"/> London, UK </div>
+<div align="center"><img src="locate.gif" alt="alt text" width="22" align="top"/> London, UK </div>
 
-<p style="text-align:center;> 
-
-I build fast, scalable web apps and AI-powered products. I've worked on everything from UN statistical platforms handling millions of records to AI chatbots and admin dashboards. 
-
-</p>
+<p align="center">I build fast, scalable web apps and AI-powered products. I've worked on everything from UN statistical platforms handling millions of records to AI chatbots and admin dashboards.</p>
 
 ## <img src="working.gif" alt="alt text" width="28" align="top"/>  What I've Been Working On
 
@@ -27,7 +23,7 @@ Built a Generative AI chatbot backend with Python, FastAPI and Postgres. Develop
 ## <img src="stack.gif" alt="alt text" width="30" align="top"/> Tech Stack
 
 <table>
-  <trs>
+  <tr>
     <th align="left">Frontend</th>
     <th align="left">Backend</th>
     <th align="left">Databases</th>
@@ -44,18 +40,16 @@ Built a Generative AI chatbot backend with Python, FastAPI and Postgres. Develop
     </td>
   </tr>
   <tr>
-    <th align="left">AI Automation</th>
     <th align="left">Productivity Tools</th>
-    <th></th>
+    <th align="left">AI Automation</th>
   </tr>
   <tr>
     <td valign="top">
-      <img width="42" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="Claude Code" title="Claude Code"/> <img height="42" src="https://img.icons8.com/ios/50/chatgpt.png" alt="ChatGPT" title="ChatGPT"/> <img width="42" src="https://img.icons8.com/emoji/48/gemini-ai.png" alt="Gemini" title="Gemini"/> <img width="42" src="https://img.icons8.com/fluency/48/github-copilot.png" alt="GitHub Copilot" title="GitHub Copilot"/>
-    </td>
-    <td valign="top">
       <img width="40" src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" title="GitHub"/> <img width="42" src="https://img.icons8.com/pulsar-gradient/48/git.png" alt="Git" title="Git"/> <img width="42" height="42" src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker"/> <img width="40" src="https://img.icons8.com/color/48/jira.png" alt="Jira" title="Jira"/> <img width="42" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" title="Figma"/> <img width="42" src="https://img.icons8.com/nolan/64/miro.png" alt="Miro" title="Miro"/>
     </td>
-    <td></td>
+    <td valign="top">
+      <img width="42" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="Claude Code" title="Claude Code"/> <img height="42" src="https://img.icons8.com/ios/50/chatgpt.png" alt="ChatGPT" title="ChatGPT"/> <img width="42" src="https://img.icons8.com/emoji/48/gemini-ai.png" alt="Gemini" title="Gemini"/> <img width="42" src="https://img.icons8.com/fluency/48/github-copilot.png" alt="GitHub Copilot" title="GitHub Copilot"/>
+    </td>
   </tr>
 </table>
 
@@ -71,18 +65,16 @@ Built a Generative AI chatbot backend with Python, FastAPI and Postgres. Develop
 
 ## <img src="internet.gif" alt="alt text" width="25" align="top"/>  Let's Connect
 
-<div style="text-align:center">
+<div align="center">
 
 <img width="24" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio" align="top"/> [`portfolio-upwork-ebon.vercel.app`](https://portfolio-upwork-ebon.vercel.app/) <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo" align="top"/> [`www.upwork.com/freelancers/samiyahamid`](upwork.com/freelancers/samiyahamid) <img width="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" align="top"/> [`linkedin.com/in/samiyahamid`](https://www.linkedin.com/in/samiyahamid/)
 
 </div>
-
 <hr>
-
 <br>
+<br>
+<div align="center"> 
 
-<p style="text-align:center;> 
+Icons are from [`icons8.com`](https://icons8.com/) 
 
-Icons are from [`icons8.com`](https://icons8.com/)
-
-</p>
+</div>
