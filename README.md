@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samiya 👋</h1>
 
-<h3 align="center"> Full-Stack Engineer - React, Vue, Python, .NET, AI Automation | Claude Code, Codex Expert </h3>
+<h3 align="center"> Software Engineer - React, Vue, Python, .NET, AI Automation | Claude Code, Codex Expert </h3>
 
 <div align="center"><img src="locate.gif" alt="alt text" width="22" align="top"/> London, UK </div>
 
